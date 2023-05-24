@@ -1,4 +1,4 @@
-package com.bitcodetech.roomdemo
+package com.bitcodetech.roomdemo.db
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
